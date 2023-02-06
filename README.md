@@ -5,7 +5,7 @@
 
 웹 퍼블리셔를 지망하고 있는 김서연입니다. </br>
 그동안 코딩과는 다른 길을 걸었지만, 개인적으로 더 큰 성장을 위해 전직을 결심하게 되었습니다. </br>
-Html5/Css3, Javascript를 중점적으로 학습하면서, 웹 퍼블리셔로 전향하기 위해 준비하고 있습니다.
+HTML5/CSS3, Javascript를 중점적으로 학습하면서, 웹 퍼블리셔로 전향하기 위해 준비하고 있습니다.
 
 잘 부탁드립니다.
 
@@ -14,8 +14,8 @@ Html5/Css3, Javascript를 중점적으로 학습하면서, 웹 퍼블리셔로 �
 ### 💪 Skills
 ##### Platforms & Languages
   <div >
-    <img src="https://img.shields.io/badge/Html5-E34F26?style=flat-square&logo=HTML5&logoColor=ffffff"/>
-    <img src="https://img.shields.io/badge/Css3-1572B6?style=flat-square&logo=CSS3&logoColor=ffffff"/>
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=ffffff"/>
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=ffffff"/>
     <img src="https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=Sass&logoColor=ffffff"/>
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=ffffff"/>
   </div>
