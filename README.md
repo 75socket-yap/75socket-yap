@@ -37,7 +37,7 @@ HTML5/CSS3, Javascript를 중점적으로 학습하면서, 웹 퍼블리셔로 �
 </br>
 
 ### 📖 Personal Projects
-- [momentum](https://github.com/oz528/momentum)
+- [Momentum](https://github.com/oz528/momentum)
 
 일일 To Do 리스트, 현재 시간, 로컬 위치/날씨/온도 등을 간단히 표시하는 프로젝트. (Javascript)  
 
