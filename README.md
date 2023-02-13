@@ -44,6 +44,8 @@ HTML5/CSS3, Javascript를 중점적으로 학습하면서, 웹 퍼블리셔로 �
 - [Canvas](https://github.com/oz528/canvas)
 
 캔버스, 브러쉬, 이미지 불러오기/내보내기 등을 구현한 프로젝트. (Javascript)
+
+- [개인사이트](http://ksy930.cafe24.com/)
 </br>
 
 ### ☎️ 연락처
