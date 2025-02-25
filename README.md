@@ -30,12 +30,6 @@ HTML5/CSS3/SCSS, Javascript, React를 중점적으로 학습하면서 퍼블리�
   
 </br>
 
-### 🌱 GitHub Stats
-  <a align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oz528&layout=compact" /></a>
-  <a align="center"><img src="https://github-readme-stats.vercel.app/api?username=oz528&show_icons=true&theme=flag-india&hide=stars,contribs" /></a>
-
-</br>
-
 ### 📖 Personal Projects
 - [Momentum](https://github.com/oz528/momentum)
 
