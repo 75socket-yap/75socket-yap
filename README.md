@@ -64,11 +64,11 @@
 </br>
 
 ### ☎️ 연락처
-📧 : 75socket-yap@icloud.com
+📧 : tidchron@icloud.com
 
 📱 : 010-2513-9182
 
-🌱 : [https://velog.io/@75socket-yap](https://velog.io/@75socket-yap)
+🌱 : [https://velog.io/@tidchron](https://velog.io/@tidchron)
   
 
   
