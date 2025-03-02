@@ -45,6 +45,18 @@
 
 캔버스, 브러쉬, 이미지 불러오기/내보내기 등을 구현한 프로젝트. (Javascript)
 
+### 👥 Team Projects
+
+- [Whale Music](https://github.com/75socket-yap/WhaleMusic)
+
+음악 스트리밍 서비스 프로젝트. (Java, Spring, Oracle, MyBatis, Vue.js, Node.js)
+담당 파트: 유저 관리[회원가입, 로그인, 로그아웃, 회원탈퇴] (100%), 음악 스트리밍 기능[스트리밍, 플레이리스트, 좋아요 기능] (60%)
+
+- [I❤️Seoul](https://github.com/75socket-yap/ILoveSeoul)
+
+서울시 공공데이터 서비스 프로젝트. (Java, Spring, MariaDB, MyBatis, React, Node.js)
+담당 파트: 관광 (100%)
+
 </br>
 
 ### ☎️ 연락처
