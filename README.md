@@ -37,13 +37,14 @@
 </br>
 
 ### 📖 Personal Projects
+- [Canvas](https://github.com/oz528/canvas)
+
+캔버스, 브러쉬, 이미지 불러오기/내보내기 등을 구현한 프로젝트. (Javascript)
+
 - [Momentum](https://github.com/oz528/momentum)
 
 일일 To Do 리스트, 현재 시간, 로컬 위치/날씨/온도 등을 간단히 표시하는 프로젝트. (Javascript)
 
-- [Canvas](https://github.com/oz528/canvas)
-
-캔버스, 브러쉬, 이미지 불러오기/내보내기 등을 구현한 프로젝트. (Javascript)
 
 ### 👥 Team Projects
 
