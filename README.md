@@ -51,6 +51,8 @@
 📧 : 75socket-yap@icloud.com
 
 📱 : 010-2513-9182
+
+🌱 : [https://velog.io/@75socket-yap](https://velog.io/@75socket-yap)
   
 
   
