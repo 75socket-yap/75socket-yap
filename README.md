@@ -48,7 +48,7 @@
 </br>
 
 ### ☎️ 연락처
-📧 : dormers.gargle-0x@icloud.com
+📧 : 75socket-yap@icloud.com
 
 📱 : 010-2513-9182
   
