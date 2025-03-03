@@ -37,6 +37,10 @@
 </br>
 
 ### 📖 Personal Projects
+- [Tetris](https://github.com/tidchron/tetris)
+
+고전 게임인 테트리스를 Java 언어로 구현한 프로젝트. (Java)
+
 - [Canvas](https://github.com/oz528/canvas)
 
 캔버스, 브러쉬, 이미지 불러오기/내보내기 등을 구현한 프로젝트. (Javascript)
