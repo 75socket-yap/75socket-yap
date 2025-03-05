@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=260&section=header&text=Welcome!&fontSize=70&fontAlignY=32&desc=Seoyeon's%20profile)
 
 <p align="center">안녕하세요!</p>
-<div align="center">
+<div align="center" style="line-height: 1.8;">
 
 ✨ 기술적 호기심을 실천으로 옮기며 끊임없이 성장하는 **신입 백엔드 개발자** 김서연입니다.<br>
 ✨ **Java**와 **SpringBoot**를 중심으로 RESTful API 설계 및 구현, 데이터 처리 최적화를 관심에 두고 학습하고 있습니다.<br>
