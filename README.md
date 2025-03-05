@@ -9,8 +9,8 @@
 ✨ 새로운 기술과 문제에 도전하며 끊임없이 배워, 회사와 함께 발전하는 ‘지속 가능한 개발자’가 되겠습니다.
 
 </br>
-<center>
-  ### 💪 Skills
+
+### 💪 Skills
   <div >
     <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
     <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
