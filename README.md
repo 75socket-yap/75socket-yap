@@ -3,20 +3,14 @@
 
 안녕하세요!
 
-<div>
-✨ 기술적 호기심을 실천으로 옮기며 끊임없이 성장하는 신입 백엔드 개발자 김서연입니다.
-  
-✨ Java와 SpringBoot를 중심으로 RESTful API 설계 및 구현, 데이터 처리 최적화를 관심에 두고 학습하고 있습니다.
-
-✨ Spotify API를 활용한 음악 스트리밍 서비스, 공공 데이터를 활용한 API 기반 정보 제공 서비스를 구현한 경험이 있습니다.
-
+✨ 기술적 호기심을 실천으로 옮기며 끊임없이 성장하는 신입 백엔드 개발자 김서연입니다.<br>
+✨ Java와 SpringBoot를 중심으로 RESTful API 설계 및 구현, 데이터 처리 최적화를 관심에 두고 학습하고 있습니다.<br>
+✨ Spotify API를 활용한 음악 스트리밍 서비스, 공공 데이터를 활용한 API 기반 정보 제공 서비스를 구현한 경험이 있습니다.<br>
 ✨ 새로운 기술과 문제에 도전하며 끊임없이 배워, 회사와 함께 발전하는 ‘지속 가능한 개발자’가 되겠습니다.
-</div>
 
 </br>
 
 ### 💪 Skills
-
   <div >
     <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
     <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
@@ -40,7 +34,6 @@
     <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white"/>
     <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black"/>
     <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-    
   </div>
   
 </br>
